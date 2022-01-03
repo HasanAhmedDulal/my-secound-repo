@@ -1,0 +1,9 @@
+h1{
+    color: blue;
+}
+small{
+    display: block;
+}
+h1{
+    display: inline;
+}
